@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-London ius honorarium Exprest in sundry triumphs, pagiants, and shewes: at the initiation or entranc
+
+1. ❧ To the Right Honourable, George Whitmore, Lord Maior of this renowned Metrapolis. London.
+
+1. ❧ To the Right VVorshipfull Samuell Cranmer, and Henry Pratt, the two Sheriffs of the Honourable Citty of London, Lately Elected.
+
 #####Body#####
-London ius honorarium Exprest in sundry triumphs, pagiants, and shewes: at the initiation or entranc
+
+1. LONDONS Ius Honorarium.
+
 **Types of content**
 
   * There are 202 **verse** lines!
